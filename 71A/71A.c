@@ -3,7 +3,7 @@
 int main() {
     int n;
     char s[101];
-    scanf("%d", &n)
+    scanf("%d", &n);
     while (n--) {
         scanf("%s", s);
         int length = strlen(s);
